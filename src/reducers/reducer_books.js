@@ -1,8 +1,8 @@
 export default function () {
   return [
-    { title: 'Hairy Potter' },
-    { title: 'Whittling Guide' },
-    { title: 'Monkey Fingers' },
-    { title: 'Chicken Run' }
+    { title: 'Hairy Potter', pages: 101 },
+    { title: 'Whittling Guide', pages: 91 },
+    { title: 'Monkey Fingers', pages: 321 },
+    { title: 'Chicken Run', pages: 1  }
   ];
 }
