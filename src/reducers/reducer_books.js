@@ -4,5 +4,5 @@ export default function () {
     { title: 'Whittling Guide' },
     { title: 'Monkey Fingers' },
     { title: 'Chicken Run' }
-  ]
+  ];
 }
