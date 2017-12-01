@@ -29,6 +29,7 @@ class BookList extends Component {
 // ======== Redux =======
 // allows container to show bits of state
 // allows container to fire off (dispatch) actions
+// aka getters & setters!
 
 function mapStateToProps(state) {
   // takes in app state. whatever is returned will show up as this.props in BookList
